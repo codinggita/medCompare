@@ -4,6 +4,16 @@
 
 A premium healthcare SaaS platform that helps users compare medicine prices across nearby pharmacies in real-time and choose the most affordable option.
 
+### 🔗 Quick Links
+
+| Resource | Link |
+|----------|------|
+| 🎨 Figma Design | [View on Figma](https://www.figma.com/design/svFKcrbxUl8nmBNylqzpfj/Untitled?node-id=6-4&p=f&t=TNVPmkZYcl7L2JGY-0) |
+| 🌐 Live Frontend | [med-compare.vercel.app](https://med-compare.vercel.app) |
+| 🖥️ Backend API | [med-compare-2wge.onrender.com](https://med-compare-2wge.onrender.com) |
+| 📮 Postman Docs | [View API Documentation](https://documenter.getpostman.com/view/50841099/2sBXqKnfAo) |
+| 🎬 YouTube Demo | [Watch Demo Video](https://www.youtube.com/watch?v=sfVarszQk2M) |
+
 ---
 
 ## 🚀 Problem Statement
@@ -162,6 +172,7 @@ medCompare/
 - **Frontend:** [https://med-compare.vercel.app](https://med-compare.vercel.app)  
 - **Backend API:** [https://med-compare-2wge.onrender.com](https://med-compare-2wge.onrender.com)  
 - **API Documentation:** [View on Postman](https://documenter.getpostman.com/view/50841099/2sBXqKnfAo)  
+- **YouTube Demo:** [Watch Demo Video](https://www.youtube.com/watch?v=sfVarszQk2M)  
 
 ---
 
@@ -174,6 +185,22 @@ https://www.figma.com/design/svFKcrbxUl8nmBNylqzpfj/Untitled?node-id=6-4&p=f&t=T
 - User flow & dashboard design  
 - Premium healthcare SaaS layout  
 - Designed with focus on clean UI, proper spacing, and real-world usability  
+
+---
+
+## 📸 Project Screenshots
+
+### Landing Page
+![Landing Page](https://med-compare.vercel.app/images/landing-preview.png)
+
+### Medicine Search & Comparison
+![Medicine Compare](https://med-compare.vercel.app/images/compare-preview.png)
+
+### Pharmacy Dashboard
+![Pharmacy Dashboard](https://med-compare.vercel.app/images/pharmacy-dashboard-preview.png)
+
+### User Dashboard
+![User Dashboard](https://med-compare.vercel.app/images/user-dashboard-preview.png)
 
 ---
 
